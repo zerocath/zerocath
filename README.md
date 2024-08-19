@@ -2,7 +2,7 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-- 🔭 I'm working on optimizing training performance of online deep learning platform for recommendation system.
+- 🔭 I'm currently working on optimizing training performance for search and recommendation system.
 - 🧳 I took a 4 months' internship developing web backend of machine learning training platform.
 - 💼 My tech stack: C++, python, GoLang, Tensorflow, CUDA...
 - 🏋️‍♀️ Work hard workout harder.
