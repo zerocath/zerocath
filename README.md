@@ -7,7 +7,7 @@
 - 🏃‍♀️ As a runner, work hard workout harder.
 - 📫 How to reach me: 
   - [mail](mailto:im.guoxi@gmail.com)
-  - [blog](https://zero-g-x.github.io)
+  - [blog](https://zerocath.github.io)
 - ⚡ Fun fact: I prefer dogs to cats.
 ### My GitHub Stars
 
