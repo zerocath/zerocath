@@ -4,7 +4,7 @@
 
 - 🧳 I'm currently working on developing ML infrastructures for training search and recommendation models.
 - 💼 My tech stack: C/C++, python, Tensorflow, PyTorch, GoLang, CUDA...
-- 🏃‍♀️ As a runner, work hard workout harder.
+- 🏃‍♀️ Runner, work hard workout harder.
 - 📫 How to reach me: 
   - [mail](mailto:im.guoxi@gmail.com)
   - [blog](https://zerocath.github.io)
