@@ -2,12 +2,13 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-- 🧳 I'm currently working on developing ML infrastructures for training search and recommendation models.
+- 🧳 I'm currently gapping with my greatest enjoyment. I had been working on ML infrastructures for training search and recommendation models for the past 2.33 years.
 - 💼 My tech stack: C/C++, python, Tensorflow, PyTorch, GoLang, CUDA...
-- 🏃‍♀️ Runner, work hard workout harder.
+- 🏃‍♀️ Runner, work hard workout harder, and hoping to become a photographer.
 - 📫 How to reach me: 
   - [mail](mailto:im.guoxi@gmail.com)
   - [blog](https://zerocath.github.io)
+  - [linkedin](https://www.linkedin.com/in/xi-guo-81740a1b8/)
 - ⚡ Fun fact: I prefer dogs to cats.
 ### My GitHub Stars
 
