@@ -2,8 +2,8 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-- 🧳 gapping now, incoming MS.ECE@UW, had been working on ML infrastructures with a focus on distributed training systems for the past 2.33 years.
-- 💼 My tech stack: C/C++, python, Tensorflow, PyTorch, GoLang, CUDA...
+- 🧳 gapping now, incoming MS.ECE@UW, had been working on rec&search infrastructures with a focus on distributed systems for the past 2.33 years.
+- 💼 My tech stack: C/C++, python, Tensorflow, PyTorch, GoLang...
 - 🏃‍♀️ Runner, work hard workout harder, and hoping to become a photographer.
 - 📫 How to reach me: 
   - [mail](mailto:im.guoxi@gmail.com)
