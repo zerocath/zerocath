@@ -2,7 +2,7 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-- 🌱 M.S.ECE@UW 28', B.Eng.CS@HUST 23', ex-SDE(training infra for rec&search)@PDD Jul.23~Nov.25
+- 🌱 M.S.ECE@UW 28', B.Eng.CS@HUST 23', ex-SDE@PDD (Jul.23~Nov.25, training infra for rec&search)
 - 💼 My tech stack: C/C++, python,GoLang, Tensorflow, PyTorch, CUDA, Triton...
 - 🏃‍♀️ Runner, work hard workout harder, and hoping to become a photographer.
 - 📫 How to reach me: 
