@@ -1,8 +1,7 @@
 ### Hi there👋
 
-
-- 🌱 M.S.ECE at University of Washington, B.Eng.CS at Huazhong University of Science and Technology
-- 💼 Former SDE(ML Infra)@PDD(TEMU); Tech stack: C/C++, Python, Go, PyTorch, TensorFlow, CUDA
+- 🌱 Master at University of Washington, Bachelor at Huazhong University of Science and Technology
+- 💼 Former SDE(ML Infra)@PDD(TEMU). Tech stack: C/C++, Python, Go, PyTorch, TensorFlow, CUDA
 - ⚙️ Interested in distributed systems, performance optimization, and ML infrastructure.
 - 🏃‍♀️ runner, gym enthusiast, aspiring photographer
 - 🐶 Proud dog owner
