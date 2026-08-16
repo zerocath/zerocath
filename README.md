@@ -1,4 +1,4 @@
-### Hi there👋
+### Hi there, it's Guo, Xi👋
 
 - 🌱 Master at University of Washington, Bachelor at Huazhong University of Science and Technology
 - 💼 Former ML Infra Enginner@PDD. Tech stack: C/C++, Python, PyTorch, TensorFlow
