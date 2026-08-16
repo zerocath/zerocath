@@ -1,7 +1,7 @@
 ### Hi there👋
 
 - 🌱 Master at University of Washington, Bachelor at Huazhong University of Science and Technology
-- 💼 Former SDE@PDD. Tech stack: C/C++, Python, Go
+- 💼 Former ML Infra Enginner@PDD. Tech stack: C/C++, Python, PyTorch, TensorFlow
 - 🏃‍♀️ runner, gym enthusiast, aspiring photographer
 - 🐶 Proud dog owner
 - 📫 Reach me at: 
