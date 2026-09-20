@@ -17,6 +17,6 @@ training frameworks, sparse embedding systems, and training performance optimiza
 
 ### Links
 
-🌐 Website: zerocath.github.io  
-💼 LinkedIn: linkedin.com/in/xiguo815  
-📫 Email: xiguo@uw.edu
+🌐 Website: [zerocath.github.io](https://zerocath.github.io/)  
+💼 LinkedIn: [linkedin.com/in/xiguo815](https://www.linkedin.com/in/xiguo815/)  
+📫 Email: [im.guoxi@gmail.com](mailto:im.guoxi@gmail.com), [xiguo@uw.edu](mailto:xiguo@uw.edu)
