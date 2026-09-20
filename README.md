@@ -1,19 +1,22 @@
-### Hi there, it's Xi(Jade)👋
+# Hi, I'm Xi (Jade) 👋
 
-- 🌱 Master at University of Washington, Bachelor at Huazhong University of Science and Technology
-- 💼 Former ML Infra Enginner@PDD. Tech stack: C/C++, Python, PyTorch, TensorFlow
-- 🏃‍♀️ runner, gym enthusiast, aspiring photographer
+I'm an M.S. student in **Electrical and Computer Engineering at the University of Washington**, 
+interested in **ML systems, distributed systems, and AI Infrastructure**.
+
+Previously, I spent 2+ years at **PDD** as a Software Engineer working on large-scale 
+training infrastructure for search and recommendation, with a focus on distributed 
+training frameworks, sparse embedding systems, and training performance optimization.
+
+### About me
+
+- 🎓 M.S. ECE @ University of Washington | B.Eng. CS @ HUST
+- 💼 Former Software Engineer, ML Infrastructure @ PDD | SDE Intern @ SenseTime
+- 💻 C/C++ · Python · Go · PyTorch · TensorFlow · TorchRec · CUDA
+- 🏃‍♀️ Runner · gym enthusiast · aspiring photographer
 - 🐶 Proud dog owner
-- My website: [zerocath.github.io](https://zerocath.github.io/)
-- 📫 Reach me at: 
-  - [xiguo@uw.edu](mailto:xiguo@uw.edu)
-  - [www.linkedin.com/in/xiguo815](https://www.linkedin.com/in/xiguo815/)
-<!--
-### My GitHub Stars
 
-![zerocath's github stats](https://github-readme-stats.vercel.app/api?username=zerocath&show_icons=true)
+### Links
 
-
-⭐️ From [zerocath](https://github.com/zerocath)
--->
-
+🌐 Website: zerocath.github.io  
+💼 LinkedIn: linkedin.com/in/xiguo815  
+📫 Email: xiguo@uw.edu
